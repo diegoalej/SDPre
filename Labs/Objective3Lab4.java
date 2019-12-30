@@ -18,7 +18,6 @@ public class Objective3Lab4 {
     age = input.nextInt();
 
     System.out.println("First Name: " + firstName + ", Last Name: " + lastName + ", Age: " + age);
-
     input.close();
   }
 }
